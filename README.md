@@ -3,7 +3,7 @@ proto conversion is a widely used way of unrestricted Lua script execution in th
 idea of proto conversion was discovered by Brandon (Chirality)
 
 # How does it work?
-When script execution occuts in Roblox, the client (you) recieves bytecode of Lua scripts from the server,
+When script execution occurs in Roblox, the client (you) recieves bytecode of Lua scripts from the server,
 Roblox then does a thing called *deserializing* to this bytecode, in basic terms, this means the bytecode
 is decompressed and converted into a proto struct.
 
