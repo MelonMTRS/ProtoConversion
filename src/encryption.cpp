@@ -16,6 +16,7 @@ uint32_t dax_encode_op(uint32_t x, uint32_t mul_even, uint32_t add_even, uint32_
 }
 
 int call_encryption(int a1, int a2) {
+	//this has been released via people on v3rm multiple times, this is elysians op_call encryption
 	signed int v2;
 	int v3;
 	signed int v4;
